@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **shmilywh/shmilywh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=shmilywh&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shmilywh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=suukii&theme=flat&column=6) -->
+### Hi👋
+
+- :orange_book:  Focus on Robotics Perception and Deep Learning ...
+- :ram:  Like robots and programming ...
+- :hammer:  I’m currently learning everything ...
+- 📫 How to reach me: [blog](https://shmilywh.github.io/)
