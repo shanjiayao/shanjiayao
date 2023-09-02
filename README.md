@@ -10,6 +10,8 @@
 - 📫 How to reach me: [Blog](https://shanjiayao.github.io/)
 
 
+---
+
 <p align="center">
   <img src="https://github.com/shanjiayao/shanjiayao/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
